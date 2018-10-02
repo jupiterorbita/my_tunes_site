@@ -8,7 +8,7 @@
 
 </p>
 
-### [View The Project](https://https://jupiterorbita.github.io/my_tunes_site/)
+### [View The Project](https://jupiterorbita.github.io/my_tunes_site/)
 
 <https://jupiterorbita.github.io/my_tunes_site/>
 
