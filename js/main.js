@@ -1,3 +1,5 @@
+console.log("%cWelcome 😎", "color:lightblue;");
+
 // Responsive Nav
 $(function() {
   menu = $("nav ul");
