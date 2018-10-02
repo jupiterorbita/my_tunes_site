@@ -212,6 +212,8 @@ nav a {
 }
 nav li:hover {
   background-color: #444;
+  border-bottom: 2px solid red;
+  border-radius: 0 0 10px 10px;
 }
 nav a#openup {
   display: none;
